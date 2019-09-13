@@ -1,0 +1,10 @@
+操作指南
+https://www.runoob.com/w3cnote/git-guide.html
+
+
+git clone https://github.com/Sebastien10115985/ZTErsHouse
+
+git add <filename>
+git add *
+git commit -m "提交总的目录结构"
+git push origin master
