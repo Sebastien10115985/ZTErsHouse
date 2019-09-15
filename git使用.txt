@@ -8,3 +8,8 @@ git add <filename>
 git add *
 git commit -m "提交总的目录结构"
 git push origin master
+
+
+提交内容：
+方法一、原始项目中可以增加collaborator，为各位贡献者增加push权限。
+方法二、访问项目主页https://github.com/Sebastien10115985/ZTErsHouse，点“Fork”在自己的账号下克隆一个仓库，然后，从自己的账号下clone到本地，修改，提交，向原始项目处发出pull request。
